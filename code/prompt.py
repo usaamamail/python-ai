@@ -1,0 +1,5 @@
+user_name = input("Enter your name: ")
+print(user_name)
+goal = input("What is your goal for today? ")
+print("My goal is:", goal)
+print(f"User: {user_name}, Goal: {goal}")

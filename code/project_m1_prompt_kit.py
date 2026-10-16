@@ -9,3 +9,8 @@ print()
 print("_" * 40)
 print(f" --AI Prompt Kit for {business_name}--")
 print("_" * 40)
+
+marketing = (
+f""
+
+)
